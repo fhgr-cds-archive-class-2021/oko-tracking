@@ -1,0 +1,21 @@
+Recording	Participant	Timeline	TOI	Interval	Media	Duration_of_interval	Start_of_interval	Last_key_press	Last_AOI_viewed	AOI_at_interval_end	Total_duration_of_whole_fixations	Average_duration_of_whole_fixations	Number_of_whole_fixations	Duration_of_first_whole_fixation	Average_whole-fixation_pupil_diameter	Number_of_saccades	Average_peak_velocity_of_saccades	Minimum_peak_velocity_of_saccades	Maximum_peak_velocity_of_saccades	Standard_deviation_of_peak_velocity_of_saccades	Average_amplitude_of_saccades	Minimum_amplitude_of_saccades	Maximum_amplitude_of_saccades	Total_amplitude_of_saccades	Time_to_first_saccade	Direction_of_first_saccade	Peak_velocity_of_first_saccade	Average_velocity_of_first_saccade	Amplitude_of_first_saccade
+Recording1	M	Timeline1	Task1 (1)	1	Task1	72509	232693				59574	285	209	250	2.98622	190	203.51	30.43	720.14	202.16	5.16	0.5	15.33	980.45	237	160.64	244.41	154.19	7.97
+Recording1	M	Timeline1	Task2 (1)	1	Task2	151686	49146				115585	264	437	133	2.86621	383	222	30.24	938.35	219.58	5.74	0.55	22.53	2199.53	187	145.94	237.64	125.33	6.74
+Recording1	M	Timeline1	Text (2)	1	Text (2)	31861	200832				7861	231	34	100	2.8228	22	115.17	31.74	230.54	58.94	3.21	0.34	7.07	70.59	216	184	230.54	128.92	7.07
+Recording1	M	Timeline1	Text (3)	1	Text (3)	6725	42421				3248	203	16	117	2.70603	11	202.74	32.04	567.36	150.5	4.46	0.98	11.06	49.02	335	180.81	315.19	315.19	5.35
+Recording1	M	Timeline1	Entire Recording	1	Task1,Task2,Text (2),Text (3)	306602	0				224241	301	745	550	2.91741	638	207.04	30.24	938.35	207.89	5.36	0.34	22.53	3422.36	1519	240.33	34.55	34.55	2.38
+Recording2	Participant2	Timeline1	Task1 (1)	1	Task1	90148	173591				66003	245	269	167	3.1589	257	211.77	30.33	913.2	213.45	7.34	0.53	23.19	1887.12	22	174.88	319.52	220.51	14.68
+Recording2	Participant2	Timeline1	Task2 (1)	1	Task2	95150	64536				63238	232	273	100	3.08831	260	210.83	30.07	889.06	218.96	6.98	0.52	22.06	1814.54	14	190.14	189.27	147.68	9.77
+Recording2	Participant2	Timeline1	Text (2)	1	Text (2)	13905	159686				1399	175	8	266	3.01187	8	195.97	32.44	439.08	166.03	5.94	0.91	17.11	47.52	43	254.24	32.44	31.73	0.91
+Recording2	Participant2	Timeline1	Text (3)	1	Text (3)	17338	47198				3564	198	18	183	3.25852	12	93.53	30.18	339.04	87.72	3.02	0.55	8.89	36.27	200	271.7	165.9	119.01	8.74
+Recording2	Participant2	Timeline1	Entire Recording	1	Task1,Task2,Text (2),Text (3)	265121	0				162768	254	641	266	3.15561	601	201.86	30.07	913.2	208.7	6.83	0.52	32.79	4102.79	435	348.82	151.04	105.01	5.42
+Recording3	Participant3	Timeline1	Task1 (1)	1	Task1	49584	54432				40638	271	150	250	3.77875	136	232.39	30.02	844.18	224.73	7.88	0.51	32.17	1071.61	467	186.8	55.88	55.88	1.52
+Recording3	Participant3	Timeline1	Task2 (1)	1	Task2	45800	129324				36491	274	133	150	3.50456	122	249.46	30.01	805.41	215.83	9.16	0.58	25.26	1117.01	437	180.49	176.9	144.8	7.44
+Recording3	Participant3	Timeline1	Text (2)	1	Text (2)	4049	50382				2215	170	13	167	3.08677	12	105.48	55.28	358.35	81.46	3.6	1.65	11.7	43.14	869	176.38	358.35	160.23	11.7
+Recording3	Participant3	Timeline1	Text (3)	1	Text (3)	25309	104015				8128	220	37	550	3.39008	30	214.81	31.91	560.95	174.53	5.6	0.52	13.03	167.9	281	230.24	83.9	81.47	3.57
+Recording3	Participant3	Timeline1	Entire Recording	1	Task1,Task2,Text (2),Text (3)	176453	0				129175	315	410	433	3.68985	341	221.12	30.01	844.18	209.06	7.51	0.17	32.17	2559.96	870	268.95	99.89	83.52	4.96
+Recording4	Participant 4	Timeline1	Task1 (1)	1	Task1	88331	101770				63072	302	209	117	2.61531	198	182.88	30.12	857.83	195.04	6.14	0.51	21.57	1214.93	278	120.4	197.64	197.64	4.12
+Recording4	Participant 4	Timeline1	Task2 (1)	1	Task2	83262	239384				58309	271	215	250	2.52235	194	223.46	30.14	828.09	218.42	6.73	0.61	20.06	1306.15	55	177.98	538.42	538.42	9.13
+Recording4	Participant 4	Timeline1	Text (2)	1	Text (2)	46043	55727				15556	288	54	217	2.47429	46	144.77	33.4	610.76	105.58	4.2	0.92	13.45	193.1	62	130.47	272.44	148.56	7.61
+Recording4	Participant 4	Timeline1	Text (3)	1	Text (3)	49284	190101				2598	200	13	217	2.65527	12	194.02	58.11	597.55	165.5	5.5	1.72	12.64	66	618	3.14	207.35	131.95	6.86
+Recording4	Participant 4	Timeline1	Entire Recording	1	Task1,Task2,Text (2),Text (3)	323745	0				168780	306	551	67	2.57447	496	193.19	30.12	857.83	196.06	6.09	0.16	21.57	3022.64	735	287.94	270.14	189.07	13.23
