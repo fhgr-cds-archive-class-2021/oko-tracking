@@ -1,3 +1,13 @@
-streamlit==1.12.2
-pandas==1.4.4
-numpy==1.23.2
+flask==2.0.3
+flask-cors==3.0.10
+pandas==1.4.1
+plotly==5.6.0
+scipy==1.8.0
+numpy==1.19.5
+matplotlib==3.5.1
+streamlit==1.8.1
+streamlit-option-menu==0.3.2
+Pillow==9.1.1
+scikit_learn==1.1.1
+altair==4.2.0
+statsmodels==0.13.2
